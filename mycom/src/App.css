@@ -1,0 +1,370 @@
+/* body{
+    background-color: rgb(96, 195, 219) !important;
+} */
+
+
+/* header start  */
+*{
+    margin: 0;
+    padding: 0;
+}
+.active{
+    color:greenyellow !important;
+}
+.nv{
+    list-style-type: none;
+    display: flex;
+    background-color:rgb(34, 59, 114);
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.nl{
+    margin: 20px;
+    font-size: larger;
+    font-weight: 600;
+   
+    
+}
+a{
+    text-decoration: none !important;
+    color: white !important;
+    
+}
+a:hover{
+    color:rgb(108, 184, 201) !important;
+}
+
+/* header end  */
+
+/* footer start  */
+
+
+
+
+
+/* home section  start*/
+
+
+.homerow{
+    background-color:rgb(108, 184, 201) !important;
+    margin-top: 0px;
+    
+}
+#col-6{
+    padding: 60px;
+}
+.homeh2{
+    font-style: italic;
+    color: rgb(34, 59, 114);
+
+}
+.homebtn{
+    margin: 20px 0px 0px 50px;
+}
+
+.shoph1{
+    text-align: center;
+    font-family: Italic;
+    color: rgb(34, 59, 114);
+    margin: 50px;
+}
+.crd{
+    text-align: center;
+    background-color: rgb(34, 59, 114) !important;
+    color: white !important;
+    margin-bottom: 50px;
+    font-family: Italic;
+    padding: 20px;
+}
+.paregraph1{
+    font-size: 20px;
+}
+.divicon{
+    font-size: 40px;
+}
+.arrival{
+    background-color:rgb(108, 184, 201)
+}
+.arivalhed{
+    font-family: Italic;
+    color: rgb(34, 59, 114);
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 60px;
+}
+.aritext{
+    font-size: 25px;
+    font-family: italic;
+    margin: 30px;
+    color: rgb(34, 59, 114);
+    justify-content: center;
+}
+.sub-bg{
+    background-color: rgb(213, 223, 187);
+    text-align: center;
+}
+.sub{
+    padding: 50px;
+    font-family: Italic;
+    color: rgb(34, 59, 114);
+    font-size: 40px;
+}
+.subinput{
+    border-radius: 50px;
+    width: 50%;
+    height: 60px;
+    margin: 30px;
+    border: none;
+}
+.carasole{
+    text-align: center;
+}
+.carasl{
+    padding: 50px;
+    font-family: Italic;
+    color: rgb(34, 59, 114);
+    font-size: 50px;
+}
+
+
+/* home section  end*/
+
+/* about section  start*/
+.about-row{
+    background-color:rgb(96, 195, 219) !important;
+    margin-top: 0px;
+}
+.abouth1{
+    margin: 100px 100px 20px 50px;
+    font-size: 48px;
+    font-family: Italic;
+    color: rgb(34, 59, 114);
+}
+.about-text{
+    margin-left: 50px;
+    color: white;
+}
+.Abbtn{
+    margin-left: 40px;
+}
+.back{
+    
+    text-align: center;
+    padding: 100px;
+}
+.hh1{
+    margin-bottom: 30px;
+    font-family: Italic;
+    color: rgb(34, 59, 114);
+}
+/* about section  end*/
+
+
+
+
+
+
+
+
+
+#ddd{
+    background-color:rgb(96, 195, 219) !important;
+    margin-top: 0px;
+}
+
+
+/* #cl{
+    padding: 60px;
+} */
+.h1s{
+    margin: 100px 100px 20px 50px;
+    
+    font-size: 48px;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+#h1s{
+   padding: 100px;
+}
+
+
+.tc{
+    text-align: center;
+    margin: 50px;
+}
+.card-footer{
+    text-align: center;
+
+}
+.card-header{
+    text-align: center;
+
+}
+/* .card{
+    box-shadow: 10px 10px 5px 12px black;
+} */
+.ss{
+    background-image: linear-gradient(rgb(51, 51, 92), rgb(34, 27, 114));
+    padding: 50px;
+}
+
+.form-group{
+    padding: 10px;
+    
+}
+#nlv{
+   color: blue !important;
+}
+.sss{
+    /* background-image: linear-gradient(rgb(158, 158, 212), rgb(15, 2, 39)); */
+    padding: 50px;
+}
+.let{
+    margin-top: 150px;
+    text-align: center;
+    color: rgb(34, 59, 114);
+    font-family: Italic;
+}
+.let1{
+    text-align: center;
+    color: rgb(34, 59, 114);
+    font-family: Italic; 
+}
+#rw{
+    background-color:rgb(108, 184, 201) !important;;
+    margin-top: 0px;
+
+    
+}
+
+.contact {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.footer1{
+    background-color:rgb(34, 59, 114);
+    color: white;
+    padding: 20px;
+    
+
+}
+.borderb{
+    font-family: Italic;
+}
+.flist{
+    list-style-type: none;
+    margin-top: 20px;
+    
+    font-size: large;
+    
+}
+#fnav{
+    color: white !important;
+    
+}
+#fnav:hover{
+    color: greenyellow !important;
+}
+
+
+#fnavi{
+    color: white !important;
+    margin: 10px;
+
+   font-size: 20px;
+   background-color:rgb(108, 184, 201) ;
+   border-radius: 100%;
+   padding: 10px;
+}
+#fnavi:hover{
+    color: rgb(34, 59, 114) !important;
+}
+hr {
+    width: 25%;
+    color: white !important;
+    
+}
+.loginh{
+    margin: 20px;
+    color: rgb(34, 59, 114) ;
+    font-family: Italic;
+    border-bottom: 3px double rgb(34, 59, 114);
+    width: 40px;
+    
+}
+.ico{
+    display: block;
+    margin: 10px;
+    color:  rgb(108, 184, 201) ;
+
+}
+#icoid{
+    display: flex;
+}
+.head6log{
+    color:  blue !important;;
+    margin: 20px;
+}
+input[type=password] {
+    border: none;
+    border-bottom: 4px solid rgb(108, 184, 201) ;
+  }
+  input:focus {
+        box-shadow: none !important;    }
+      
+  
+  input[type=email] {
+    border: none;
+    border-bottom: 4px solid rgb(108, 184, 201) ;
+    
+  }
+  
+  .fr{
+    margin: 30px;
+    border: snow;
+    
+    /* box-shadow: 8px 8px 12px 12px rgba(11, 13, 124, 0.2), 4px 6px 10px 4px rgba(14, 129, 14, 0.19); */
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.imgi{
+    margin: 30px;
+   
+}
+input[type=text1] {
+    border: none;
+    border-bottom: 2px solid rgb(34, 59, 114);
+    
+  }
+  input[type=password] {
+    border: none;
+    border-bottom: 2px solid rgb(34, 59, 114);
+    
+  }
+  .frm-s{
+   
+    border: snow;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.labletext{
+    font-weight: bold;
+    color: rgb(34, 59, 114);
+    font-family: Italic;
+}
+.ml-5{
+    color: rgb(34, 59, 114);
+    font-family: Italic;
+    text-align: center;
+    
+}
+
+
+
+ 
