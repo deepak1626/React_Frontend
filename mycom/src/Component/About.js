@@ -21,7 +21,7 @@ const About = () => {
                     <p className="about-text">"Lorem ipsum is placeholder text commonly used in the graphic,<br></br>
                        print, and publishing industries for previewing layouts <br></br>
                        and visual mockups"..</p>
-                       <button  className="btn btn-primary btn-lg Abbtn">Shop Now</button>
+                       <button  className="btn btn-primary btn-lg  Abbtn">Shop Now</button>
                     </div>
                 <div className="col-md-6">
                 {<img src={img} alt='' height="auto" width="100%"></img>}
@@ -37,19 +37,19 @@ const About = () => {
                for previewing layouts and visual.</p>
                <div className="row mt-5">
                <div className="col-md-3">{<img src={img1} alt='' height="150px" width="150px"></img>}
-               <h5>Free shipping</h5>
+               <h5 className="abh5">Free shipping</h5>
                <p>In publishing and graphic design,</p>
                </div> 
                <div className="col-md-3">{<img src={img2} alt='' height="150px" width="150px"></img>}
-               <h5>Spport 24/7</h5>
+               <h5 className="abh5">Spport 24/7</h5>
                <p>In publishing and graphic design,</p>
                </div>   
                <div className="col-md-3">{<img src={img3} alt='' height="150px" width="150px"></img>}
-               <h5>Money Return</h5>
+               <h5 className="abh5">Money Return</h5>
                <p>In publishing and graphic design,</p>
                </div> 
                <div className="col-md-3">{<img src={img4} alt='' height="150px" width="150px"></img>}
-               <h5>Order discount</h5>
+               <h5 className="abh5">Order discount</h5>
                <p>In publishing and graphic design,</p>
                </div> 
 

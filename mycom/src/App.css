@@ -159,6 +159,11 @@ a:hover{
     font-family: Italic;
     color: rgb(34, 59, 114);
 }
+
+.abh5{
+    font-family: Italic;
+    color: rgb(34, 59, 114);
+}
 /* about section  end*/
 
 
@@ -312,7 +317,7 @@ hr {
     color:  blue !important;;
     margin: 20px;
 }
-input[type=password] {
+input[type=password1] {
     border: none;
     border-bottom: 4px solid rgb(108, 184, 201) ;
   }
@@ -320,7 +325,7 @@ input[type=password] {
         box-shadow: none !important;    }
       
   
-  input[type=email] {
+  input[type=email1] {
     border: none;
     border-bottom: 4px solid rgb(108, 184, 201) ;
     

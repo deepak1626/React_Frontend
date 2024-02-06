@@ -7,7 +7,7 @@ import { SiFireship } from "react-icons/si";
 import { FaAngleDoubleRight } from "react-icons/fa";
 import { RiTruckLine } from "react-icons/ri";
 import { BsCoin } from "react-icons/bs";
-import arrival from '../Image/ab.avif'
+import arrival from '../Image/hm.jpg'
 import '../../node_modules/bootstrap/dist/css/bootstrap.css'
 import { FaAngleDoubleLeft } from "react-icons/fa";
 import Footer from "./Footer";

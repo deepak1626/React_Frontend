@@ -1,7 +1,7 @@
 import React from "react";
 import '../App.css'
 import Header from "./Header";
-import imglog from '../Image/sng.jpg'
+import imglog from '../Image/n.jpg'
 import '../../node_modules/bootstrap/dist/css/bootstrap.css'
 import Footer from "./Footer";
 
@@ -35,7 +35,7 @@ const Signup = () => {
                         <label className="labletext ms-2">I agree to the term of user</label><br></br>
 
                        
-                        <button type="submit" class="btn btn-center btn-info mx-auto d-block text-white ">Sign Up</button><br/><br/>
+                        <button type="submit" class="btn btn-center mb-0 btn-info mx-auto d-block text-white ">Sign Up</button><br/><br/>
 
                         
                         </div>

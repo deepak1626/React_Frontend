@@ -22,11 +22,11 @@ const Login = () => {
                    </div>
                    <div id="icoid" class="form-group">
                    <h4 className="ico"> <IoMdMailUnread /> </h4>
-                   <input type="email" class="form-control" id="email" placeholder="Enter your email" name="email"></input>
+                   <input type="email1" class="form-control" id="email" placeholder="Enter your email" name="email"></input>
                    </div>
                    <div id="icoid" class="form-group"> 
                      <h4 className="ico"> <FaLock /></h4>
-                    <input type="password" class="form-control" id="pwd" placeholder="Enter your password" name="pswd"></input></div>
+                    <input type="password1" class="form-control" id="pwd" placeholder="Enter your password" name="pswd"></input></div>
  
                     <div class="form-group">
                    <h6 className="head6log"> Forgot password ?</h6>
